@@ -1,7 +1,8 @@
----
----
+/* Add any additional custom CSS/Sass rules below */
+/* These will be applied *after* the theme's base styles */
 
-// Import the local copy of the theme's styles
+/* Reset styling for indented lists rendered as <pre> blocks */
+/* Import the local copy of the theme's styles */
 @import "jekyll-theme-minimal";
 
 /* Add any additional custom CSS/Sass rules below */
@@ -13,38 +14,11 @@ section pre {
   font-size: 14px !important; /* Match body font size */
   line-height: 1.5 !important; /* Match body line height */
   color: #727272 !important; /* Match body text color */
-  background-color: #fff !important; /* Match body background */
+  background-color: transparent !important; /* Remove code block background */
   border: none !important; /* Remove code block border */
   padding: 0 0 0 20px !important; /* Remove default padding but add left padding for indent */
   margin-bottom: 1em !important; /* Keep paragraph-like spacing */
   white-space: pre-wrap !important; /* Allow text wrapping */
   word-wrap: break-word; /* Ensure long words break */
   overflow-x: hidden; /* Hide horizontal scrollbar if any */
-  -webkit-box-shadow: none !important; /* Remove any box shadow */
-  box-shadow: none !important; /* Remove any box shadow */
 }
-
-/* Ensure all content inside pre blocks has the correct color */
-section pre code, section pre span {
-  color: #727272 !important; /* Match body text color */
-  background-color: transparent !important; /* Ensure transparent background */
-}
-
-/* Add this to ensure any syntax highlighting is removed */
-.highlight, .highlight pre, .highlight code {
-  background-color: transparent !important;
-  color: #727272 !important;
-}
-/* Example: Make the main content area slightly wider */
-/*
-.wrapper {
-  max-width: 900px;
-}
-*/
-
-/* Example: Change the default font */
-/*
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-*/
