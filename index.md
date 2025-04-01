@@ -1,13 +1,4 @@
-<p align="center">
-  <picture>
-    <!-- Image for Light Mode -->
-    <source srcset="logo-light.png" media="(prefers-color-scheme: light)">
-    <!-- Image for Dark Mode -->
-    <source srcset="logo-dark.png" media="(prefers-color-scheme: dark)">
-    <!-- Fallback Image -->
-    <img src="logo-light.png" style="width:40%" />
-  </picture>
-</p>
+<!-- Logo moved to _layouts/default.html -->
 
 <h1>GENERAL TERMS AND CONDITIONS FOR CONTRACT WORKS</h1>
 
@@ -271,7 +262,7 @@ These warranties are in addition to any other warranties implied by law or speci
 
 9.3 **Consequences of Termination**
 
-9.3.1   If terminated by Principal for Default:** The Contractor must immediately cease work, secure its work area, remove its personnel (unless otherwise directed for safety), and leave the Site. The Principal may complete the Works itself or engage Other Contractors. The Contractor shall only be entitled to payment for the value of the Works properly completed up to the termination date (as reasonably assessed by the Principal), less: (i) any amounts already paid; (ii) any retentions held; (iii) any costs incurred by the Principal due to the Contractor's default; and (iv) the extra costs reasonably incurred or anticipated by the Principal in completing the Works compared to the balance of the original Contract Price. If these costs exceed the unpaid value of work, the difference shall be a debt due from the Contractor to the Principal. No further compensation (including loss of profit) is payable.
+9.3.1   **If terminated by Principal for Default:** The Contractor must immediately cease work, secure its work area, remove its personnel (unless otherwise directed for safety), and leave the Site. The Principal may complete the Works itself or engage Other Contractors. The Contractor shall only be entitled to payment for the value of the Works properly completed up to the termination date (as reasonably assessed by the Principal), less: (i) any amounts already paid; (ii) any retentions held; (iii) any costs incurred by the Principal due to the Contractor's default; and (iv) the extra costs reasonably incurred or anticipated by the Principal in completing the Works compared to the balance of the original Contract Price. If these costs exceed the unpaid value of work, the difference shall be a debt due from the Contractor to the Principal. No further compensation (including loss of profit) is payable.
 
 9.3.2 **If terminated by Principal for Convenience:** The Contractor must cease work as directed, secure its area, and demobilise. The Principal shall pay the Contractor for:
 
