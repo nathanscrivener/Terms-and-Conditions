@@ -61,48 +61,42 @@ For the purposes of this Agreement the following definitions shall apply:
 
 <h2>2.0 THE AGREEMENT</h2>
 
-**2.1 Documents Comprising The Agreement**
-
-2.1.1   The complete Agreement comprises the following documents, listed in order of precedence in case of conflict or inconsistency:
+2.1   The complete Agreement comprises the following documents, listed in order of precedence in case of conflict or inconsistency:
 
 - The Acceptance, including any other written correspondence between the parties leading to the Acceptance;
 - The RFP;
 - These Terms; and
 - The Quote.
 
-2.1.2  These Terms apply to the exclusion of any other terms or conditions that the Contractor seeks to impose or incorporate or which might otherwise be implied by law, unless expressly agreed to in writing by the Principal within the Acceptance document or a subsequent formal written agreement signed by both parties.
+<h2>3.0 GENERAL OBLIGATIONS</h2>
 
-**2.2  Scope of Works**
-
-2.2.1  The Contractor shall commence the Works when directed by the Principal and shall carry out and complete the Works diligently, expeditiously, in a proper and workmanlike manner, and in accordance with:
+3.1  The Contractor shall commence the Works when directed by the Principal and shall carry out and complete the Works diligently, expeditiously, in a proper and workmanlike manner, and in accordance with:
 
 - The Agreement;
 - All relevant New Zealand laws, regulations, standards (including the New Zealand Building Code), and bylaws applicable to the Works;  
 - Good Industry Practice for the Contractor's trade; and
 - The reasonable directions and Programme requirements of the Principal, including coordination with the Principal and Other Contractors. The Contractor acknowledges that the timing and sequencing of its Works are subject to the Principal's direction based on the overall project needs and Programme.
 
-<h2>3.0 GENERAL OBLIGATIONS</h2>
+3.2   Where required by the Principal, the Contractor shall supply the Principal with as-built drawings and maintenance manuals. Such documents shall make clear cross-references to any drawings and specifications or architectural plans and all subsequent documentation.
 
-3.1   Where required by the Principal, the Contractor shall supply the Principal with as-built drawings and maintenance manuals. Such documents shall make clear cross-references to any drawings and specifications or architectural plans and all subsequent documentation.
+3.3   Subject to any inclusions and exclusions set out in the RFP and/or Acceptance (such as where the Agreement is a labour only contract), the Contractor is responsible for providing all labour, supervision, materials, plant, equipment, setting out, temporary works, and everything else necessary (whether temporary or permanent) to execute and complete its Works in accordance with the Agreement.
 
-3.2   Subject to any inclusions and exclusions set out in the RFP and/or Acceptance (such as where the Agreement is a labour only contract), the Contractor is responsible for providing all labour, supervision, materials, plant, equipment, setting out, temporary works, and everything else necessary (whether temporary or permanent) to execute and complete its Works in accordance with the Agreement.
+3.4   Where the Agreement excludes the provision of materials by the Contractor, the Contractor is responsible for providing all labour and supervision necessary to execute and complete the Works using materials and/or specific plant/equipment supplied by the Principal or others as detailed in the RFP. The Contractor shall carefully check any free-issue materials or equipment provided and immediately notify the Principal of any defects or shortages.
 
-3.3   Where the Agreement excludes the provision of materials by the Contractor, the Contractor is responsible for providing all labour and supervision necessary to execute and complete the Works using materials and/or specific plant/equipment supplied by the Principal or others as detailed in the RFP. The Contractor shall carefully check any free-issue materials or equipment provided and immediately notify the Principal of any defects or shortages.
+3.5   Notwithstanding Clause 3.3 and Clause 3.4 above, the Contractor is responsible in all cases for providing its own tools of trade (e.g. hand tools and power tools appropriate for the Works) and all necessary consumables relating to its tools of trade that are required to perform the Works.
 
-3.4   Notwithstanding Clause 3.2 and Clause 3.3 above, the Contractor is responsible in all cases for providing its own tools of trade (e.g. hand tools and power tools appropriate for the Works) and all necessary consumables relating to its tools of trade that are required to perform the Works.
+3.6   From time to time the Principal may require that any materials or Work be inspected or tested. The Contractor shall provide the assistance and materials required for inspection or testing.
 
-3.5   From time to time the Principal may require that any materials or Work be inspected or tested. The Contractor shall provide the assistance and materials required for inspection or testing.
+3.7   The Contractor will arrange all necessary inspections required by the Consents that are related to its Works. The Contractor is responsible for ensuring that all such inspections are passed to the satisfaction of the relevant inspector. The Contractor must notify the Principal in writing whenever an inspection is scheduled or undertaken and must provide full information relating to the outcome of such inspections. The cost of any inspections will be borne by the Principal, except where the Contractor has failed an inspection on more than one occasion.
 
-3.6   The Contractor will arrange all necessary inspections required by the Consents that are related to its Works. The Contractor is responsible for ensuring that all such inspections are passed to the satisfaction of the relevant inspector. The Contractor must notify the Principal in writing whenever an inspection is scheduled or undertaken and must provide full information relating to the outcome of such inspections. The cost of any inspections will be borne by the Principal, except where the Contractor has failed an inspection on more than one occasion.
-
-3.7  The Contractor warrants:
+3.8  The Contractor warrants:
 
 - That all materials supplied by it shall be new (unless otherwise specified in the RFP), fit for their intended purpose, and free from defects; and
 - That its workmanship shall be free from defects.
 
 These warranties are in addition to any other warranties implied by law or specified in the RFP.
 
-3.8  By submitting its Quote, the Contractor is deemed to have:
+3.9  By submitting its Quote, the Contractor is deemed to have:
 
 - Inspected the Site areas relevant to the Works;
 - Satisfied itself as to the conditions affecting the Works (so far as is reasonably ascertainable)
@@ -110,13 +104,13 @@ These warranties are in addition to any other warranties implied by law or speci
 - Reviewed the RFP and all associated documents; and
 - Allowed in its Contract Price for all risks, contingencies, and obligations under the Agreement.
 
-3.9   The Contractor shall coordinate its Works with the Principal and Other Contractors as directed by the Principal. This includes attending Site meetings as reasonably required and strictly adhering to the Principal's Programme and Site management directions.
+3.10   The Contractor shall coordinate its Works with the Principal and Other Contractors as directed by the Principal. This includes attending Site meetings as reasonably required and strictly adhering to the Principal's Programme and Site management directions.
 
-3.10  The Contractor shall ensure it provides sufficient appropriately skilled resources (labour, supervision, plant) to meet the Principal's Programme requirements and directions for progress.
+3.11  The Contractor shall ensure it provides sufficient appropriately skilled resources (labour, supervision, plant) to meet the Principal's Programme requirements and directions for progress.
 
-3.11  The Contractor must immediately notify the Principal in writing of any discrepancy, error, or omission it identifies in the Agreement documents or any Site condition that may impede the Works. The Principal makes no warranty as to the sufficiency or accuracy of such information.
+3.12  The Contractor must immediately notify the Principal in writing of any discrepancy, error, or omission it identifies in the Agreement documents or any Site condition that may impede the Works. The Principal makes no warranty as to the sufficiency or accuracy of such information.
 
-3.12  Where the Contractor undertakes any design of any part of the Works, the Contractor shall be responsible for carrying out such design with reasonable skill, care and diligence. No comment, review, or approval by the Principal shall relieve the Contractor of any responsibility for that part of the Works.
+3.13  Where the Contractor undertakes any design of any part of the Works, the Contractor shall be responsible for carrying out such design with reasonable skill, care and diligence. No comment, review, or approval by the Principal shall relieve the Contractor of any responsibility for that part of the Works.
 
 <h2>4.0  CONTRACT PRICE & PAYMENT</h2>
 
@@ -332,3 +326,5 @@ Payment excludes any allowance for loss of anticipated profit or overhead recove
 14.11   No waiver by the Principal of any breach or failure to enforce any provision of the Agreement by the Principal shall be effective unless in writing, nor shall it limit or prejudice any of the Principal’s rights concerning any subsequent breach.
 
 14.12   If any provision of the Agreement is held to be illegal, invalid, or unenforceable, that provision shall be read down or severed to the extent necessary, and the remaining provisions shall continue in full force and effect.
+
+14.13  These Terms apply to the exclusion of any other terms or conditions that the Contractor seeks to impose or incorporate or which might otherwise be implied by law, unless expressly agreed to in writing by the Principal within the Acceptance document or a subsequent formal written agreement signed by both parties.
