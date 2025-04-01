@@ -7,60 +7,57 @@
 1.1  **Definitions**
 
 For the purposes of this Agreement the following definitions shall apply:
->
-> **Acceptance:** The Principal's written acceptance of the Contractor's Quote, which incorporates these Terms by reference and forms the Agreement.
->
-> **Agreement:** The contract between the Principal and Contractor comprising the Acceptance, these Terms, the RFP, and the Quote, as set out in the Background.
->
-> **AMINZ**: Arbitrators’ and Mediators’ Institute of New Zealand
->
-> **CCA:** Construction Contracts Act 2002.
->
-> **Contractor:** The party whose Quote for the Works has been accepted by the Principal via the Acceptance.
->
-> **Consents**: The relevant building consent and land use consents relating to the overall project being undertaken by the Principal.
->
-> **Contract Price:** The amount payable by the Principal as specified in the Quote and confirmed in the Acceptance, payable by the Principal to the Contractor for the completion of the Works, subject to adjustments only as expressly provided for under these Terms.
->
-> **Defects Liability Period (DLP):** A period of twelve (12) months commencing on the date the Principal determines Practical Completion of the Works has been achieved.
->
-> **Dispute:** Any dispute or difference arising under or in connection with the Agreement.
->
-> **Good Industry Practice:** A set of standards requiring the Contractor to exercise that degree of skill, care, diligence, prudence, and foresight which would reasonably and ordinarily be expected from a skilled, competent, and experienced contractor engaged in New Zealand in carrying out works of a similar type, scope, complexity, nature, and scale as the Works, under similar circumstances and conditions prevailing at the time the Works are carried out. It includes, without limitation:
->
->>-  Complying with all applicable laws, regulations, bylaws, the New Zealand Building Code, relevant New Zealand Standards (unless the Agreement expressly specifies otherwise), and applicable codes of practice;
->>
->>- Adhering to sound and accepted health and safety practices and requirements relevant to the Works and the Site, consistent with the HSWA;
->>
->>-  Using materials, plant, techniques, and standards of workmanship that are suitable, appropriate for their intended purpose, free from defects (unless specified otherwise), and widely accepted as good practice within the relevant trade or industry in New Zealand; and
->>
->>-  Performing the Works efficiently and in a manner that avoids unnecessary waste of time, resources, or materials
->
-> **HSWA:** Health and Safety at Work Act 2015.
->
-> **Other Contractors:** Other trade contractors, consultants, or suppliers engaged directly by the Principal for the overall project.
->
-> **PCBU**: A person conducting a business or undertaking, as defined in s 17 of HSWA.
->
-> **Practical Completion:** The stage when the Contractor's specific Works are complete except for minor omissions and minor defects that do not prevent that part of the Works from being reasonably capable of being used for its intended purpose within the overall project, and all required regulatory consents/certifications attributable to the Contractor's specific Works have been provided to the Principal. The Principal shall determine, acting reasonably, when Practical Completion of the Works has been achieved.
->
-> **Principal:** The party engaging the Contractor and managing the overall construction project, as named in the RFP and/or Acceptance.
->
-> **Programme:** The schedule or sequence of works for the overall project, as developed and amended from time to time by the Principal.
->
-> **Quote:** The Contractor's submitted quote, tender, or proposal in response to the RFP, detailing its price for the Works.
->
-> **RFP:** The Principal's Request for Pricing, invitation to tender, scope of works document, or similar document (including any drawings, specifications, schedules attached or referenced within) describing the required Works, to which the Contractor’s Quote is a response.
->
-> **Site:** The overall land and other places provided by the Principal for the purpose of the entire construction project, as identified in the RFP. The Contractor's access and work areas within the Site may be defined or restricted by the Principal.
->
-> **Terms:** These general terms and conditions.
->
-> **Variation:** Any change to the Works instructed by the Principal in writing in accordance with Clause 6.
->
-> **Works:** The specific work, trade package, associated services, materials, plant, and obligations required to be carried out and completed by the Contractor as described in the RFP and any clarifications in the Acceptance.
->
-> **Working Day:** A calendar day other than any Saturday, Sunday, public holiday, or any day falling within the period from 24 December to 5 January both inclusive, irrespective of the days on which the Works are carried out.
+
+**Acceptance:** The Principal's written acceptance of the Contractor's Quote, which incorporates these Terms by reference and forms the Agreement.
+
+**Agreement:** The contract between the Principal and Contractor comprising the Acceptance, these Terms, the RFP, and the Quote, as set out in the Background.
+
+**AMINZ**: Arbitrators’ and Mediators’ Institute of New Zealand
+
+**CCA:** Construction Contracts Act 2002.
+
+**Contractor:** The party whose Quote for the Works has been accepted by the Principal via the Acceptance.
+
+**Consents**: The relevant building consent and land use consents relating to the overall project being undertaken by the Principal.
+
+**Contract Price:** The amount payable by the Principal as specified in the Quote and confirmed in the Acceptance, payable by the Principal to the Contractor for the completion of the Works, subject to adjustments only as expressly provided for under these Terms.
+
+**Defects Liability Period (DLP):** A period of twelve (12) months commencing on the date the Principal determines Practical Completion of the Works has been achieved.
+
+**Dispute:** Any dispute or difference arising under or in connection with the Agreement.
+
+**Good Industry Practice:** A set of standards requiring the Contractor to exercise that degree of skill, care, diligence, prudence, and foresight which would reasonably and ordinarily be expected from a skilled, competent, and experienced contractor engaged in New Zealand in carrying out works of a similar type, scope, complexity, nature, and scale as the Works, under similar circumstances and conditions prevailing at the time the Works are carried out. It includes, without limitation:
+
+a)  Complying with all applicable laws, regulations, bylaws, the New Zealand Building Code, relevant New Zealand Standards (unless the Agreement expressly specifies otherwise), and applicable codes of practice;
+b)  Adhering to sound and accepted health and safety practices and requirements relevant to the Works and the Site, consistent with the HSWA;
+c)  Using materials, plant, techniques, and standards of workmanship that are suitable, appropriate for their intended purpose, free from defects (unless specified otherwise), and widely accepted as good practice within the relevant trade or industry in New Zealand; and
+d) Performing the Works efficiently and in a manner that avoids unnecessary waste of time, resources, or materials
+
+**HSWA:** Health and Safety at Work Act 2015.
+
+**Other Contractors:** Other trade contractors, consultants, or suppliers engaged directly by the Principal for the overall project.
+
+**PCBU**: A person conducting a business or undertaking, as defined in s 17 of HSWA.
+
+**Practical Completion:** The stage when the Contractor's specific Works are complete except for minor omissions and minor defects that do not prevent that part of the Works from being reasonably capable of being used for its intended purpose within the overall project, and all required regulatory consents/certifications attributable to the Contractor's specific Works have been provided to the Principal. The Principal shall determine, acting reasonably, when Practical Completion of the Works has been achieved.
+
+**Principal:** The party engaging the Contractor and managing the overall construction project, as named in the RFP and/or Acceptance.
+
+**Programme:** The schedule or sequence of works for the overall project, as developed and amended from time to time by the Principal.
+
+**Quote:** The Contractor's submitted quote, tender, or proposal in response to the RFP, detailing its price for the Works.
+
+**RFP:** The Principal's Request for Pricing, invitation to tender, scope of works document, or similar document (including any drawings, specifications, schedules attached or referenced within) describing the required Works, to which the Contractor’s Quote is a response.
+
+**Site:** The overall land and other places provided by the Principal for the purpose of the entire construction project, as identified in the RFP. The Contractor's access and work areas within the Site may be defined or restricted by the Principal.
+
+**Terms:** These general terms and conditions.
+
+**Variation:** Any change to the Works instructed by the Principal in writing in accordance with Clause 6.
+
+**Works:** The specific work, trade package, associated services, materials, plant, and obligations required to be carried out and completed by the Contractor as described in the RFP and any clarifications in the Acceptance.
+
+**Working Day:** A calendar day other than any Saturday, Sunday, public holiday, or any day falling within the period from 24 December to 5 January both inclusive, irrespective of the days on which the Works are carried out.
 
 <h2>2.0 THE AGREEMENT</h2>
 
