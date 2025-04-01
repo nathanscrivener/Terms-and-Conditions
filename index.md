@@ -4,10 +4,6 @@
 
 <h2>1.0 INTERPRETATION</h2>
 
-1.1.    **Application**
-
-This section shall apply to the Agreement except where inconsistent with the context.
-
 1.1  **Definitions**
 
 For the purposes of this Agreement the following definitions shall apply:
