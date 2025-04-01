@@ -10,7 +10,7 @@ For the purposes of this Agreement the following definitions shall apply:
 
 **Acceptance:** The Principal's written acceptance of the Contractor's Quote, which incorporates these Terms by reference and forms the Agreement.
 
-**Agreement:** The contract between the Principal and Contractor comprising the Acceptance, these Terms, the RFP, and the Quote, as set out in the Background.
+**Agreement:** The contract between the Principal and Contractor comprising the Acceptance, these Terms, the RFP, and the Quote.
 
 **AMINZ**: Arbitrators’ and Mediators’ Institute of New Zealand.
 
@@ -53,7 +53,7 @@ For the purposes of this Agreement the following definitions shall apply:
 
 **Terms:** These general terms and conditions.
 
-**Variation:** Any change to the Works instructed by the Principal in writing in accordance with Clause 6.
+**Variation:** Any change to the Works instructed by the Principal in writing in accordance with Clause 7.
 
 **Works:** The specific work, trade package, associated services, materials, plant, and obligations required to be carried out and completed by the Contractor as described in the RFP and any clarifications in the Acceptance.
 
@@ -61,7 +61,7 @@ For the purposes of this Agreement the following definitions shall apply:
 
 <h2>2.0 THE AGREEMENT</h2>
 
-**2.1 DOCUMENTS COMPRISING THE AGREEMENT**
+**2.1 Documents Comprising The Agreement**
 
 2.1.1   The complete Agreement comprises the following documents, listed in order of precedence in case of conflict or inconsistency:
 
@@ -72,11 +72,11 @@ For the purposes of this Agreement the following definitions shall apply:
 
 2.1.2  These Terms apply to the exclusion of any other terms or conditions that the Contractor seeks to impose or incorporate or which might otherwise be implied by law, unless expressly agreed to in writing by the Principal within the Acceptance document or a subsequent formal written agreement signed by both parties.
 
-**2.2  SCOPE OF WORKS**
+**2.2  Scope of Works**
 
 2.2.1  The Contractor shall commence the Works when directed by the Principal and shall carry out and complete the Works diligently, expeditiously, in a proper and workmanlike manner, and in accordance with:
 
-- The Agreement (including these Terms and the documents referenced in the Background);
+- The Agreement;
 - All relevant New Zealand laws, regulations, standards (including the New Zealand Building Code), and bylaws applicable to the Works;  
 - Good Industry Practice for the Contractor's trade; and
 - The reasonable directions and Programme requirements of the Principal, including coordination with the Principal and Other Contractors. The Contractor acknowledges that the timing and sequencing of its Works are subject to the Principal's direction based on the overall project needs and Programme.
@@ -224,7 +224,7 @@ These warranties are in addition to any other warranties implied by law or speci
 
 9.4 The Principal may direct the Contractor to accelerate its Works to meet the Programme, and the Contractor shall use its best endeavours to comply. Any costs associated with such acceleration shall be borne by the Contractor.
 
-9.5 If, in the Principal's reasonable opinion, the Contractor is failing to comply with its obligations under Clause 8.1 or fails to comply with a direction to accelerate under Clause 8.4 where required, the Principal may give the Contractor written notice specifying the failure.
+9.5 If, in the Principal's reasonable opinion, the Contractor is failing to comply with its obligations under Clause 9.1 or fails to comply with a direction to accelerate under Clause 9.4 where required, the Principal may give the Contractor written notice specifying the failure.
 
 9.6 The notice shall require the Contractor to remedy the specified failure within three (3) Working Days by demonstrating a significant improvement in progress and/or providing satisfactory evidence of sufficient allocated resources to meet Programme requirements going forward.
 
@@ -237,9 +237,9 @@ These warranties are in addition to any other warranties implied by law or speci
 
 9.9 All extra costs reasonably incurred by the Principal in taking action under Clause 9.7 shall be a debt due from the Contractor to the Principal. The Principal may recover such costs by deduction from any monies otherwise due or that become due to the Contractor under the Agreement.
 
-9.10 Where work is taken out of the Contractor's hands under Clause 8.7, the Contract Price shall be adjusted downwards by the value of the removed work, as reasonably determined by the Principal based on the original Contract Price.
+9.10 Where work is taken out of the Contractor's hands under Clause 9.7, the Contract Price shall be adjusted downwards by the value of the removed work, as reasonably determined by the Principal based on the original Contract Price.
 
-9.11 Taking action under this Clause 8.7 does not relieve the Contractor of its other obligations under the Agreement, including its responsibility for the Works it continues to perform and liability for defects in any work performed by it prior to the Principal taking action under this clause.
+9.11 Taking action under this Clause 9.7 does not relieve the Contractor of its other obligations under the Agreement, including its responsibility for the Works it continues to perform and liability for defects in any work performed by it prior to the Principal taking action under this clause.
 
 <h2>10.0  TERMINATION</h2>
 
@@ -315,7 +315,7 @@ Payment excludes any allowance for loss of anticipated profit or overhead recove
 
 14.3    Where any period of time from a given day, act, or event is prescribed or allowed for any purpose, the period shall, unless a contrary intention appears, be determined as exclusive of that day or the day of that act or event.
 
-14.4    The Agreement (comprising the documents listed in the Background in the stated order of precedence) constitutes the entire agreement between the Principal and the Contractor relating to the Works and supersedes all prior negotiations, representations, understandings, or agreements, whether written or oral.
+14.4    The Agreement constitutes the entire agreement between the Principal and the Contractor relating to the Works and supersedes all prior negotiations, representations, understandings, or agreements, whether written or oral.
 
 14.5    The Contractor shall not assign, transfer, or novate the Agreement or any right or obligation under it without the prior written consent of the Principal (which may be granted or withheld at the Principal's absolute discretion). The Contractor shall not subcontract the whole or any substantial part of the Works without the prior written consent of the Principal. Any approved subcontracting does not relieve the Contractor of any of its obligations or liabilities under the Agreement.
 
