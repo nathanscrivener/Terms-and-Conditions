@@ -61,7 +61,7 @@ For the purposes of this Agreement the following definitions shall apply:
 
 <h2>2.0 THE AGREEMENT</h2>
 
-2.1 **DOCUMENTS COMPRISING THE AGREEMENT**
+**2.1 DOCUMENTS COMPRISING THE AGREEMENT**
 
 2.1.1   The complete Agreement comprises the following documents, listed in order of precedence in case of conflict or inconsistency:
 
@@ -72,7 +72,7 @@ For the purposes of this Agreement the following definitions shall apply:
 
 2.1.2  These Terms apply to the exclusion of any other terms or conditions that the Contractor seeks to impose or incorporate or which might otherwise be implied by law, unless expressly agreed to in writing by the Principal within the Acceptance document or a subsequent formal written agreement signed by both parties.
 
-2.2  **SCOPE OF WORKS**
+**2.2  SCOPE OF WORKS**
 
 2.2.1  The Contractor shall commence the Works when directed by the Principal and shall carry out and complete the Works diligently, expeditiously, in a proper and workmanlike manner, and in accordance with:
 
@@ -81,7 +81,7 @@ For the purposes of this Agreement the following definitions shall apply:
 - Good Industry Practice for the Contractor's trade; and
 - The reasonable directions and Programme requirements of the Principal, including coordination with the Principal and Other Contractors. The Contractor acknowledges that the timing and sequencing of its Works are subject to the Principal's direction based on the overall project needs and Programme.
 
-2.3.    **GENERAL OBLIGATIONS**
+**2.3 GENERAL OBLIGATIONS**
 
 2.3.1   Where required by the Principal, the Contractor shall supply the Principal with as-built drawings and maintenance manuals. Such documents shall make clear cross-references to any drawings and specifications or architectural plans and all subsequent documentation.
 
@@ -93,7 +93,7 @@ For the purposes of this Agreement the following definitions shall apply:
 
 2.3.5   From time to time the Principal may require that any materials or Work be inspected or tested. The Contractor shall provide the assistance and materials required for inspection or testing.
 
-2.3.6   **Inspections**: The Contractor will arrange all necessary inspections required by the Consents that are related to its Works. The Contractor is responsible for ensuring that all such inspections are passed to the satisfaction of the relevant inspector. The Contractor must notify the Principal in writing whenever an inspection is scheduled or undertaken and must provide full information relating to the outcome of such inspections. The cost of any inspections will be borne by the Principal, except where the Contractor has failed an inspection on more than one occasion.
+2.3.6   The Contractor will arrange all necessary inspections required by the Consents that are related to its Works. The Contractor is responsible for ensuring that all such inspections are passed to the satisfaction of the relevant inspector. The Contractor must notify the Principal in writing whenever an inspection is scheduled or undertaken and must provide full information relating to the outcome of such inspections. The cost of any inspections will be borne by the Principal, except where the Contractor has failed an inspection on more than one occasion.
 
 2.3.7  The Contractor warrants:
 
@@ -136,7 +136,7 @@ These warranties are in addition to any other warranties implied by law or speci
 
 3.5 All payments made by the Principal are payments on account only and do not constitute approval or acceptance of the Contractor's Works, waiver of any of the Principal's rights or remedies, or evidence of the value of work properly executed.
 
-3.6 **Retentions:** Unless otherwise modified by the Agreement, the Principal may withhold retentions from each progress payment. The percentage for retention shall be 10% of the value of work claimed in each payment claim. The total aggregate retention withheld shall not exceed 5% of the Contract Price. Half (50%) of the total retention money held shall be released upon Practical Completion of the Works. The remaining half (50%) shall be released upon expiry of the Defects Liability Period, provided the Contractor has promptly rectified all defects notified during the DLP. Retention money shall be dealt with by the Principal in accordance with the requirements of the CCA.
+3.6 Unless otherwise modified by the Agreement, the Principal may withhold retentions from each progress payment. The percentage for retention shall be 10% of the value of work claimed in each payment claim. The total aggregate retention withheld shall not exceed 5% of the Contract Price. Half (50%) of the total retention money held shall be released upon Practical Completion of the Works. The remaining half (50%) shall be released upon expiry of the Defects Liability Period, provided the Contractor has promptly rectified all defects notified during the DLP. Retention money shall be dealt with by the Principal in accordance with the requirements of the CCA.
 
 <h2>4.0  QUALITY & DEFECTS</h2>
 
@@ -150,16 +150,16 @@ These warranties are in addition to any other warranties implied by law or speci
 
 5.1 The Contractor shall, at its own cost, effect and maintain the following insurances from commencement of the Works until 6 years following completion of the Works.
 
-5.2 **Public Liability Insurance:** Covering the Contractor's legal liability for loss, damage, or injury to any physical property (including loss of use thereof), where such loss, damage, or injury arises out of or is caused by the Contractor's performance of the Works under the Agreement. This insurance must include cover for:
+5.2 Public Liability Insurance: Covering the Contractor's legal liability for loss, damage, or injury to any physical property (including loss of use thereof), where such loss, damage, or injury arises out of or is caused by the Contractor's performance of the Works under the Agreement. This insurance must include cover for:
 
 - A limit of indemnity of not less than the amount stated in the Agreement, or in the absence of any limit specifically agreed, NZ$2,000,000 for any one occurrence; 
 - Liability arising out of vibration, weakening, or removal of support;
 - Product liability; and
 - Liability arising from the use of construction machinery, including hired plant.
 
-5.3 **Motor Vehicle Insurance:** Covering legal liability to third parties arising from the use of any motor vehicle belonging to or under the care, custody, or control of the Contractor in connection with the execution of the Works. The term ‘motor vehicle’ shall include any item of plant which is licensed or required by law to be licensed as a motor vehicle. The insurance shall have a limit of indemnity of not less than the amount stated in the Agreement, or in the absence of any limit specifically agreed, NZ$1,000,000 for any one occurrence.
+5.3 Motor Vehicle Insurance: Covering legal liability to third parties arising from the use of any motor vehicle belonging to or under the care, custody, or control of the Contractor in connection with the execution of the Works. The term ‘motor vehicle’ shall include any item of plant which is licensed or required by law to be licensed as a motor vehicle. The insurance shall have a limit of indemnity of not less than the amount stated in the Agreement, or in the absence of any limit specifically agreed, NZ$1,000,000 for any one occurrence.
 
-5.4 **Professional Indemnity Insurance**: Where the Contractor undertakes any design in connection to the Works, the Contractor shall effect and maintain professional indemnity insurance for Contractor’s design in the name of the Contractor, for an amount not less than the amount stated in the Agreement, or where no amount is stated, NZ$2,000,000 for any one claim or series of claims arising out of the same occurrence and an amount in the aggregate, from the commencement of the Works until 6 years following completion of the Works.
+5.4 Professional Indemnity Insurance: Where the Contractor undertakes any design in connection to the Works, the Contractor shall effect and maintain professional indemnity insurance for Contractor’s design in the name of the Contractor, for an amount not less than the amount stated in the Agreement, or where no amount is stated, NZ$2,000,000 for any one claim or series of claims arising out of the same occurrence and an amount in the aggregate, from the commencement of the Works until 6 years following completion of the Works.
 
 5.5 The Contractor shall provide the Principal with certificates of currency evidencing the required insurances before commencing Works on Site and whenever requested by the Principal.
 
@@ -186,9 +186,9 @@ These warranties are in addition to any other warranties implied by law or speci
 
 - Accept the quotation in writing; or
 - Negotiate the quotation with the Contractor; or
-- Reject the quotation and either withdraw the Variation instruction or direct the Contractor to proceed with the varied work. If directed to proceed, the Principal shall select and instruct an expert to determine a fair and reasonable adjustment to the Contract Price.
+- Reject the quotation and either withdraw the Variation instruction or direct the Contractor to proceed with the varied work. 
 
-6.5 If the Contractor is directed to proceed under Clause 6.4(c), it must do so without delay and in accordance with the Principal's directions. The determination of the value adjustment made by the Principal’s expert shall apply, subject only to the Contractor's right to dispute the determination under Clause 11 (Dispute Resolution).
+6.5 If the Contractor is directed to proceed under Clause 6.4, the Principal shall select and instruct an expert to determine a fair and reasonable adjustment to the Contract Price. The Contractor must proceed without delay and in accordance with the Principal's directions. The determination of the value adjustment made by the Principal’s expert shall apply, subject only to the Contractor's right to dispute the determination under Clause 11 (Dispute Resolution).
 
 6.6 Decreases in scope shall be valued based on the reasonable cost saving to the Contractor (excluding loss of profit on the omitted work).
 
@@ -243,9 +243,9 @@ These warranties are in addition to any other warranties implied by law or speci
 
 <h2>9.0  TERMINATION</h2>
 
-9.1 **Termination for Convenience:** The Principal may terminate the Contractor's engagement under the Agreement for its sole convenience at any time by giving the Contractor five (5) Working Days' written notice.
+9.1 The Principal may terminate the Contractor's engagement under the Agreement for its sole convenience at any time by giving the Contractor five (5) Working Days' written notice.
 
-9.2 **Termination by Principal for Default:** The Principal may terminate the Contractor's engagement under the Agreement immediately by written notice if the Contractor:
+9.2 The Principal may terminate the Contractor's engagement under the Agreement immediately by written notice if the Contractor:
 
 - Becomes insolvent, bankrupt, enters liquidation, administration, receivership, or makes an arrangement with creditors;
 - Abandons the Works, suspends the Works without justification under the CCA, or persistently fails to proceed with the Works diligently and expeditiously in accordance with the Principal's reasonable directions or Programme requirements;
@@ -253,20 +253,20 @@ These warranties are in addition to any other warranties implied by law or speci
 - Assigns the Agreement or subcontracts the whole or substantial part of the Works without the Principal’s prior written consent; or
 - Assigns or transfers shares in the Contractor so that effective control of the Contractor passes to persons other than those holding it at the date of this Agreement without the Principal’s prior written consent.
 
-9.3 **Consequences of Termination**
+**9.3 Consequences of Termination**
 
-9.3.1   **If terminated by Principal for Default:** The Contractor must immediately cease work, secure its work area, remove its personnel (unless otherwise directed for safety), and leave the Site. The Principal may complete the Works itself or engage Other Contractors. The Contractor shall only be entitled to payment for the value of the Works properly completed up to the termination date (as reasonably assessed by the Principal), less: (i) any amounts already paid; (ii) any retentions held; (iii) any costs incurred by the Principal due to the Contractor's default; and (iv) the extra costs reasonably incurred or anticipated by the Principal in completing the Works compared to the balance of the original Contract Price. If these costs exceed the unpaid value of work, the difference shall be a debt due from the Contractor to the Principal. No further compensation (including loss of profit) is payable.
+9.3.1   If terminated by the Principal for Default, the Contractor must immediately cease work, secure its work area, remove its personnel (unless otherwise directed for safety), and leave the Site. The Principal may complete the Works itself or engage Other Contractors. The Contractor shall only be entitled to payment for the value of the Works properly completed up to the termination date (as reasonably assessed by the Principal), less: (i) any amounts already paid; (ii) any retentions held; (iii) any costs incurred by the Principal due to the Contractor's default; and (iv) the extra costs reasonably incurred or anticipated by the Principal in completing the Works compared to the balance of the original Contract Price. If these costs exceed the unpaid value of work, the difference shall be a debt due from the Contractor to the Principal. No further compensation (including loss of profit) is payable.
 
-9.3.2 **If terminated by Principal for Convenience:** The Contractor must cease work as directed, secure its area, and demobilise. The Principal shall pay the Contractor for:
+9.3.2 If terminated by the Principal for Convenience, the Contractor must cease work as directed, secure its area, and demobilise. The Principal shall pay the Contractor for:
 
  - The value of the Works properly completed up to the effective date of termination (as reasonably assessed by the Principal); plus
 - The reasonable, substantiated, and unavoidable costs directly incurred by the Contractor solely due to the termination (e.g., cancellation costs for non-returnable materials ordered prior to notice of termination, demobilisation costs), provided the Contractor takes all reasonable steps to mitigate such costs.
 
 Payment excludes any allowance for loss of anticipated profit or overhead recovery on the uncompleted portion of the Works.
 
-9.3.3   **Termination does not affect accrued rights:** Termination under this clause does not prejudice any rights or remedies that accrued prior to termination.
+9.3.3 Termination under this clause does not prejudice any rights or remedies that accrued prior to termination.
 
-9.4 **Termination by Contractor:** The Contractor may terminate the Agreement only if the Principal:
+9.4 The Contractor may terminate the Agreement only if the Principal:
 
 - Commits a substantial breach of a fundamental term (which, for clarity, is limited to failing to pay a correctly scheduled undisputed amount certified in a Payment Schedule for more than 30 Working Days after the due date, where such failure is not due to a valid deduction or withholding right under the Agreement or CCA); or
 - Becomes insolvent.
@@ -291,13 +291,13 @@ Payment excludes any allowance for loss of anticipated profit or overhead recove
 
 <h2>11.0   DISPUTE RESOLUTION </h2>
 
-11.1    **Negotiation:** The parties agree to use their best endeavours to resolve any Dispute through prompt and good faith negotiation between representatives with authority to settle.
+11.1    The parties agree to use their best endeavours to resolve any Dispute through prompt and good faith negotiation between representatives with authority to settle.
 
-11.2    **Mediation:** If the Dispute cannot be resolved by negotiation within ten (10) Working Days of written notice of the Dispute being issued by one party to the other, either party may refer the Dispute to mediation by providing written notice to the other. The mediator shall be agreed upon by the parties or, failing agreement within 5 Working Days of the notice to mediate, appointed by the President (or nominee) of AMINZ upon application by either party. The mediation shall take place in Hamilton, and the costs shall be shared equally.
+11.2    If the Dispute cannot be resolved by negotiation within ten (10) Working Days of written notice of the Dispute being issued by one party to the other, either party may refer the Dispute to mediation by providing written notice to the other. The mediator shall be agreed upon by the parties or, failing agreement within 5 Working Days of the notice to mediate, appointed by the President (or nominee) of AMINZ upon application by either party. The mediation shall take place in Hamilton, and the costs shall be shared equally.
 
-11.3    **Arbitration:** If the Dispute is not resolved by mediation within twenty (20) Working Days of the mediator's appointment (or such longer period as the parties agree in writing), the Dispute may be referred to arbitration upon written notice by either party to the other. The arbitration shall be conducted by a sole arbitrator. If the parties fail to agree on an arbitrator within ten (10) Working Days after the date on which arbitration is invoked, the arbitrator shall be appointed by the President of AMINZ or his/her nominee. The arbitration shall take place in Hamilton. The arbitrator's award shall be final and binding on the parties.
+11.3  If the Dispute is not resolved by mediation within twenty (20) Working Days of the mediator's appointment (or such longer period as the parties agree in writing), the Dispute may be referred to arbitration upon written notice by either party to the other. The arbitration shall be conducted by a sole arbitrator. If the parties fail to agree on an arbitrator within ten (10) Working Days after the date on which arbitration is invoked, the arbitrator shall be appointed by the President of AMINZ or his/her nominee. The arbitration shall take place in Hamilton. The arbitrator's award shall be final and binding on the parties.
 
-11.4    **Continuation of Works:** Despite the existence of a Dispute, the Contractor shall continue to diligently perform its obligations under the Agreement in accordance with the Principal's directions, and the Principal shall continue to make payments in accordance with the Agreement for undisputed amounts.
+11.4    Despite the existence of a Dispute, the Contractor shall continue to diligently perform its obligations under the Agreement in accordance with the Principal's directions, and the Principal shall continue to make payments in accordance with the Agreement for undisputed amounts.
 
 <h2>12.0 NOTICES</h2>
 
@@ -311,26 +311,26 @@ Payment excludes any allowance for loss of anticipated profit or overhead recove
 
 <h2>13.0 GENERAL</h2>
 
-13.1    **Governing Law:** The Agreement is governed by and construed in accordance with the laws of New Zealand. The parties submit to the exclusive jurisdiction of the New Zealand courts.
+13.1    The Agreement is governed by and construed in accordance with the laws of New Zealand. The parties submit to the exclusive jurisdiction of the New Zealand courts.
 
-13.2    **Legislation:** A reference to any statute or secondary legislation includes all subsequent statutes or secondary legislation in amendment of, or substitution for, the same.
+13.2    A reference to any statute or secondary legislation includes all subsequent statutes or secondary legislation in amendment of, or substitution for, the same.
 
-13.3    **Computation of Time:** Where any period of time from a given day, act, or event is prescribed or allowed for any purpose, the period shall, unless a contrary intention appears, be determined as exclusive of that day or the day of that act or event.
+13.3    Where any period of time from a given day, act, or event is prescribed or allowed for any purpose, the period shall, unless a contrary intention appears, be determined as exclusive of that day or the day of that act or event.
 
-13.4    **Entire Agreement:** The Agreement (comprising the documents listed in the Background in the stated order of precedence) constitutes the entire agreement between the Principal and the Contractor relating to the Works and supersedes all prior negotiations, representations, understandings, or agreements, whether written or oral.
+13.4    The Agreement (comprising the documents listed in the Background in the stated order of precedence) constitutes the entire agreement between the Principal and the Contractor relating to the Works and supersedes all prior negotiations, representations, understandings, or agreements, whether written or oral.
 
-13.5    **Assignment & Subcontracting:** The Contractor shall not assign, transfer, or novate the Agreement or any right or obligation under it without the prior written consent of the Principal (which may be granted or withheld at the Principal's absolute discretion). The Contractor shall not subcontract the whole or any substantial part of the Works without the prior written consent of the Principal. Any approved subcontracting does not relieve the Contractor of any of its obligations or liabilities under the Agreement.
+13.5    The Contractor shall not assign, transfer, or novate the Agreement or any right or obligation under it without the prior written consent of the Principal (which may be granted or withheld at the Principal's absolute discretion). The Contractor shall not subcontract the whole or any substantial part of the Works without the prior written consent of the Principal. Any approved subcontracting does not relieve the Contractor of any of its obligations or liabilities under the Agreement.
 
-13.6    **Confidentiality:** Each party must keep confidential all information received from the other party that is marked as confidential or by its nature is confidential, except where disclosure is required by law, to professional advisors bound by confidentiality, or for the purpose of performing obligations or enforcing rights under the Agreement.
+13.6    Each party must keep confidential all information received from the other party that is marked as confidential or by its nature is confidential, except where disclosure is required by law, to professional advisors bound by confidentiality, or for the purpose of performing obligations or enforcing rights under the Agreement.
 
-13.7    **Cooperation & Coordination:** The Contractor shall cooperate fully with the Principal and Other Contractors. The Contractor must comply with all reasonable instructions from the Principal.
+13.7    The Contractor shall cooperate fully with the Principal and Other Contractors. The Contractor must comply with all reasonable instructions from the Principal.
 
-13.8    **Condition Precedent:** Failure by the Contractor to strictly comply with any notice requirement, procedural step, or timeframe set out in this Agreement shall preclude any entitlement to an adjustment to the Contract Price, Variation, compensation, or damages.
+13.8    Failure by the Contractor to strictly comply with any notice requirement, procedural step, or timeframe set out in this Agreement shall preclude any entitlement to an adjustment to the Contract Price, Variation, compensation, or damages.
 
-13.9    **No Partnership:** Nothing in the Agreement creates a partnership, joint venture, or employment relationship between the Principal and the Contractor.
+13.9    Nothing in the Agreement creates a partnership, joint venture, or employment relationship between the Principal and the Contractor.
 
-13.10   **Costs**: The Contractor must pay on demand all costs and expenses (including legal costs on a solicitor and own client basis) incurred by the Principal in connection with any breach of this Agreement by the Contractor or the subsequent exercise by the Principal of its rights or remedies. Such amounts are recoverable as a debt due from the Contractor and may be deducted by the Principal from any monies otherwise payable to the Contractor.
+13.10  The Contractor must pay on demand all costs and expenses (including legal costs on a solicitor and own client basis) incurred by the Principal in connection with any breach of this Agreement by the Contractor or the subsequent exercise by the Principal of its rights or remedies. Such amounts are recoverable as a debt due from the Contractor and may be deducted by the Principal from any monies otherwise payable to the Contractor.
 
-13.11   **Waiver:** No waiver by the Principal of any breach or failure to enforce any provision of the Agreement by the Principal shall be effective unless in writing, nor shall it limit or prejudice any of the Principal’s rights concerning any subsequent breach.
+13.11   No waiver by the Principal of any breach or failure to enforce any provision of the Agreement by the Principal shall be effective unless in writing, nor shall it limit or prejudice any of the Principal’s rights concerning any subsequent breach.
 
-13.12   **Severability:** If any provision of the Agreement is held to be illegal, invalid, or unenforceable, that provision shall be read down or severed to the extent necessary, and the remaining provisions shall continue in full force and effect.
+13.12   If any provision of the Agreement is held to be illegal, invalid, or unenforceable, that provision shall be read down or severed to the extent necessary, and the remaining provisions shall continue in full force and effect.
