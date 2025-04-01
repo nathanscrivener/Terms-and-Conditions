@@ -34,7 +34,7 @@
     <footer>
       <p style="text-align: center; font-size: 0.8em; color: #666;">
         Last Updated: {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }} <br>
-        Version: {{ site.github.commit_sha | slice: 0, 7 }}
+        Version: {{ site.github.build_revision | slice: 0, 7 }}
       </p>
     </footer>
   </body>
