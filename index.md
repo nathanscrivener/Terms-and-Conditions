@@ -4,9 +4,7 @@
 
 <h2>1.0 INTERPRETATION</h2>
 
-1.1  Definitions
-
-For the purposes of this Agreement the following definitions shall apply:
+1.1  For the purposes of this Agreement the following definitions shall apply:
 
 **Acceptance:** The Principal's written acceptance of the Contractor's Quote, which incorporates these Terms by reference and forms the Agreement.
 
