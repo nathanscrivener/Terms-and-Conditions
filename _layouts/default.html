@@ -31,5 +31,11 @@
      
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <footer>
+      <p style="text-align: center; font-size: 0.8em; color: #666;">
+        Last Updated: {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }} <br>
+        Version: {{ site.github.commit_sha | slice: 0, 7 }}
+      </p>
+    </footer>
   </body>
 </html>

@@ -12,7 +12,7 @@ For the purposes of this Agreement the following definitions shall apply:
 
 **Agreement:** The contract between the Principal and Contractor comprising the Acceptance, these Terms, the RFP, and the Quote, as set out in the Background.
 
-**AMINZ**: Arbitrators’ and Mediators’ Institute of New Zealand
+**AMINZ**: Arbitrators’ and Mediators’ Institute of New Zealand.
 
 **CCA:** Construction Contracts Act 2002.
 
