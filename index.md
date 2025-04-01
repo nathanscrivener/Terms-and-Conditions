@@ -28,10 +28,10 @@ For the purposes of this Agreement the following definitions shall apply:
 
 **Good Industry Practice:** A set of standards requiring the Contractor to exercise that degree of skill, care, diligence, prudence, and foresight which would reasonably and ordinarily be expected from a skilled, competent, and experienced contractor engaged in New Zealand in carrying out works of a similar type, scope, complexity, nature, and scale as the Works, under similar circumstances and conditions prevailing at the time the Works are carried out. It includes, without limitation:
 
-    a)  Complying with all applicable laws, regulations, bylaws, the New Zealand Building Code, relevant New Zealand Standards (unless the Agreement expressly specifies otherwise), and applicable codes of practice;
-    b)  Adhering to sound and accepted health and safety practices and requirements relevant to the Works and the Site, consistent with the HSWA;
-    c)  Using materials, plant, techniques, and standards of workmanship that are suitable, appropriate for their intended purpose, free from defects (unless specified otherwise), and widely accepted as good practice within the relevant trade or industry in New Zealand; and
-    d) Performing the Works efficiently and in a manner that avoids unnecessary waste of time, resources, or materials
+- Complying with all applicable laws, regulations, bylaws, the New Zealand Building Code, relevant New Zealand Standards (unless the Agreement expressly specifies otherwise), and applicable codes of practice;
+- Adhering to sound and accepted health and safety practices and requirements relevant to the Works and the Site, consistent with the HSWA;
+- Using materials, plant, techniques, and standards of workmanship that are suitable, appropriate for their intended purpose, free from defects (unless specified otherwise), and widely accepted as good practice within the relevant trade or industry in New Zealand; and
+- Performing the Works efficiently and in a manner that avoids unnecessary waste of time, resources, or materials
 
 **HSWA:** Health and Safety at Work Act 2015.
 
@@ -65,10 +65,10 @@ For the purposes of this Agreement the following definitions shall apply:
 
 2.1.1   The complete Agreement comprises the following documents, listed in order of precedence in case of conflict or inconsistency:
 
-    a)  The Acceptance, including any other written correspondence between the parties leading to the Acceptance;
-    b)  The RFP;
-    c)  These Terms; and
-    d)  The Quote.
+- The Acceptance, including any other written correspondence between the parties leading to the Acceptance;
+- The RFP;
+- These Terms; and
+- The Quote.
 
 2.1.2  These Terms apply to the exclusion of any other terms or conditions that the Contractor seeks to impose or incorporate or which might otherwise be implied by law, unless expressly agreed to in writing by the Principal within the Acceptance document or a subsequent formal written agreement signed by both parties.
 
@@ -76,10 +76,10 @@ For the purposes of this Agreement the following definitions shall apply:
 
 2.2.1  The Contractor shall commence the Works when directed by the Principal and shall carry out and complete the Works diligently, expeditiously, in a proper and workmanlike manner, and in accordance with:
 
-    a)  The Agreement (including these Terms and the documents referenced in the Background);
-    b)  All relevant New Zealand laws, regulations, standards (including the New Zealand Building Code), and bylaws applicable to the Works;  
-    c)  Good Industry Practice for the Contractor's trade; and
-    d)  The reasonable directions and Programme requirements of the Principal, including coordination with the Principal and Other Contractors. The Contractor acknowledges that the timing and sequencing of its Works are subject to the Principal's direction based on the overall project needs and Programme.
+- The Agreement (including these Terms and the documents referenced in the Background);
+- All relevant New Zealand laws, regulations, standards (including the New Zealand Building Code), and bylaws applicable to the Works;  
+- Good Industry Practice for the Contractor's trade; and
+- The reasonable directions and Programme requirements of the Principal, including coordination with the Principal and Other Contractors. The Contractor acknowledges that the timing and sequencing of its Works are subject to the Principal's direction based on the overall project needs and Programme.
 
 2.3.    **GENERAL OBLIGATIONS**
 
@@ -97,18 +97,18 @@ For the purposes of this Agreement the following definitions shall apply:
 
 2.3.7  The Contractor warrants:
 
-    a)  That all materials supplied by it shall be new (unless otherwise specified in the RFP), fit for their intended purpose, and free from defects; and
-    b)  That its workmanship shall be free from defects.
+- That all materials supplied by it shall be new (unless otherwise specified in the RFP), fit for their intended purpose, and free from defects; and
+- That its workmanship shall be free from defects.
 
 These warranties are in addition to any other warranties implied by law or specified in the RFP.
 
 2.3.8  By submitting its Quote, the Contractor is deemed to have:
 
-    a)  Inspected the Site areas relevant to the Works;
-    b)  Satisfied itself as to the conditions affecting the Works (so far as is reasonably ascertainable)
-    c)  Satisfied itself as to the nature and extent of the Works, materials, access, and coordination required;
-    d)  Reviewed the RFP and all associated documents;
-    e)  Allowed in its Contract Price for all risks, contingencies, and obligations under the Agreement.
+- Inspected the Site areas relevant to the Works;
+- Satisfied itself as to the conditions affecting the Works (so far as is reasonably ascertainable)
+- Satisfied itself as to the nature and extent of the Works, materials, access, and coordination required;
+- Reviewed the RFP and all associated documents; and
+- Allowed in its Contract Price for all risks, contingencies, and obligations under the Agreement.
 
 2.3.9   The Contractor shall coordinate its Works with the Principal and Other Contractors as directed by the Principal. This includes attending Site meetings as reasonably required and strictly adhering to the Principal's Programme and Site management directions.
 
@@ -124,11 +124,11 @@ These warranties are in addition to any other warranties implied by law or speci
 
 3.2 Payments shall be made in accordance with the CCA. The Contractor shall submit payment claims no more frequently than monthly, detailing the value of Works completed to date in accordance with the Agreement, less amounts previously paid, plus any approved Variation adjustments. Claims must:
 
-    a)  Be accompanied by a valid tax invoice under the Goods and Services Tax Act 1985, dated as at the last day of the relevant time period to which the claim relates;
-    b)  Clearly identify the relevant Agreement;
-    c)  Identify the time period to which the claim relates;
-    d)  Provide sufficient, evidenced, detail for the Principal to assess the claimed amount against completed Works; and
-    e)  Be otherwise compliant with all other applicable requirements for a valid payment claim under the CCA.
+- Be accompanied by a valid tax invoice under the Goods and Services Tax Act 1985, dated as at the last day of the relevant time period to which the claim relates;
+- Clearly identify the relevant Agreement;
+- Identify the time period to which the claim relates;
+- Provide sufficient, evidenced, detail for the Principal to assess the claimed amount against completed Works; and
+- Be otherwise compliant with all other applicable requirements for a valid payment claim under the CCA.
 
 3.3 The Principal shall respond to each payment claim with a payment schedule within 10 Working Days of receipt. The payment schedule will state the amount the Principal proposes to pay (the "Scheduled Amount") and the basis for its calculation, including any deductions or withholdings the Principal is entitled to make under the Agreement or law (e.g., for retentions, defective work, costs incurred by the Principal due to the Contractor's default or failure to meet obligations).
 
@@ -152,10 +152,10 @@ These warranties are in addition to any other warranties implied by law or speci
 
 5.2 **Public Liability Insurance:** Covering the Contractor's legal liability for loss, damage, or injury to any physical property (including loss of use thereof), where such loss, damage, or injury arises out of or is caused by the Contractor's performance of the Works under the Agreement. This insurance must include cover for:
 
-    a)  A limit of indemnity of not less than the amount stated in the Agreement, or in the absence of any limit specifically agreed, NZ\$2,000,000 for any one occurrence; 
-    b)  Liability arising out of vibration, weakening, or removal of support;
-    c)  Product liability; and
-    d)  Liability arising from the use of construction machinery, including hired plant.
+- A limit of indemnity of not less than the amount stated in the Agreement, or in the absence of any limit specifically agreed, NZ$2,000,000 for any one occurrence; 
+- Liability arising out of vibration, weakening, or removal of support;
+- Product liability; and
+- Liability arising from the use of construction machinery, including hired plant.
 
 5.3 **Motor Vehicle Insurance:** Covering legal liability to third parties arising from the use of any motor vehicle belonging to or under the care, custody, or control of the Contractor in connection with the execution of the Works. The term ‘motor vehicle’ shall include any item of plant which is licensed or required by law to be licensed as a motor vehicle. The insurance shall have a limit of indemnity of not less than the amount stated in the Agreement, or in the absence of any limit specifically agreed, NZ$1,000,000 for any one occurrence.
 
@@ -169,24 +169,24 @@ These warranties are in addition to any other warranties implied by law or speci
 
 6.1  The Principal may instruct Variations to the Works in writing at any time before Practical Completion. A Variation instruction must be issued by the Principal. Variations may:
 
-    a)  Increase or decrease the quantity of any work;
-    b)  Omit any work;
-    c)  Change the character or quality of any material or work;
-    d)  Require additional work to be done; and/or
-    e)  Change the level, line, position, or dimensions of any part of the Works.
+- Increase or decrease the quantity of any work;
+- Omit any work;
+- Change the character or quality of any material or work;
+- Require additional work to be done; and/or
+- Change the level, line, position, or dimensions of any part of the Works.
 
 6.2 The Contractor shall not make any changes to the Works or deviate from the Agreement without a prior written Variation instruction from the Principal.
 
 6.3 As soon as practicable after receiving a Variation instruction (and before commencing the varied work), the Contractor shall provide the Principal with a written quotation detailing:
 
-    a)  The proposed adjustment to the Contract Price (increase or decrease), calculated using rates or prices in the Agreement if applicable, or otherwise based on auditable records of reasonable costs (labour, materials, plant) plus a margin of 7.5% for overheads and profit. Supporting documentation must be provided; and
-    b)  Any estimated impact on the Contractor's ability to meet the Principal's Programme.
+- The proposed adjustment to the Contract Price (increase or decrease), calculated using rates or prices in the Agreement if applicable, or otherwise based on auditable records of reasonable costs (labour, materials, plant) plus a margin of 7.5% for overheads and profit. Supporting documentation must be provided; and
+- Any estimated impact on the Contractor's ability to meet the Principal's Programme.
 
 6.4  The Principal shall review the Contractor's quotation and either:
 
-    a)  Accept the quotation in writing; or
-    b)  Negotiate the quotation with the Contractor; or
-    c)  Reject the quotation and either withdraw the Variation instruction or direct the Contractor to proceed with the varied work. If directed to proceed, the Principal shall select and instruct an expert to determine a fair and reasonable adjustment to the Contract Price.
+- Accept the quotation in writing; or
+- Negotiate the quotation with the Contractor; or
+- Reject the quotation and either withdraw the Variation instruction or direct the Contractor to proceed with the varied work. If directed to proceed, the Principal shall select and instruct an expert to determine a fair and reasonable adjustment to the Contract Price.
 
 6.5 If the Contractor is directed to proceed under Clause 6.4(c), it must do so without delay and in accordance with the Principal's directions. The determination of the value adjustment made by the Principal’s expert shall apply, subject only to the Contractor's right to dispute the determination under Clause 11 (Dispute Resolution).
 
@@ -202,9 +202,9 @@ These warranties are in addition to any other warranties implied by law or speci
 
 7.2 The Contractor shall comply fully with:
 
-    a)  The HSWA and all associated regulations;
-    b)  The Principal's Site-specific Health and Safety Management Plan (as provided or made available); and
-    c)  All reasonable health and safety directions given by the Principal.
+- The HSWA and all associated regulations;
+- The Principal's Site-specific Health and Safety Management Plan (as provided or made available); and
+- All reasonable health and safety directions given by the Principal.
 
 7.3 The Contractor shall consult, cooperate, and coordinate activities with the Principal and Other Contractors on Site to manage health and safety risks effectively, as required by the HSWA and directed by the Principal.
 
@@ -230,16 +230,16 @@ These warranties are in addition to any other warranties implied by law or speci
 
 8.7 If the Contractor fails to remedy the failure specified in the notice to the Principal's reasonable satisfaction within the specified timeframe, the Principal may, without prejudice to its other rights under the Agreement, take either or both of the following actions:
 
-    a)  Supplement the Contractor's resources by providing additional labour, plant, or materials itself or through Other Contractors; and/or
-    b)  Take any part or parts of the remaining Works out of the hands of the Contractor and execute such part(s) itself or engage Other Contractors to do so.
+- Supplement the Contractor's resources by providing additional labour, plant, or materials itself or through Other Contractors; and/or
+- Take any part or parts of the remaining Works out of the hands of the Contractor and execute such part(s) itself or engage Other Contractors to do so.
 
 8.8 If the Principal takes action under Clause 8.7, the Contractor shall provide all reasonable assistance to the Principal and any other persons engaged by the Principal, and shall not hinder or obstruct the execution of the work undertaken by the Principal or Other Contractors.
 
 8.9 All extra costs reasonably incurred by the Principal in taking action under Clause 8.7 shall be a debt due from the Contractor to the Principal. The Principal may recover such costs by deduction from any monies otherwise due or that become due to the Contractor under the Agreement.
 
-8.10    Where work is taken out of the Contractor's hands under Clause 8.7, the Contract Price shall be adjusted downwards by the value of the removed work, as reasonably determined by the Principal based on the original Contract Price.
+8.10 Where work is taken out of the Contractor's hands under Clause 8.7, the Contract Price shall be adjusted downwards by the value of the removed work, as reasonably determined by the Principal based on the original Contract Price.
 
-8.11    Taking action under this Clause 8.7 does not relieve the Contractor of its other obligations under the Agreement, including its responsibility for the Works it continues to perform and liability for defects in any work performed by it prior to the Principal taking action under this clause.
+8.11 Taking action under this Clause 8.7 does not relieve the Contractor of its other obligations under the Agreement, including its responsibility for the Works it continues to perform and liability for defects in any work performed by it prior to the Principal taking action under this clause.
 
 <h2>9.0  TERMINATION</h2>
 
@@ -247,11 +247,11 @@ These warranties are in addition to any other warranties implied by law or speci
 
 9.2 **Termination by Principal for Default:** The Principal may terminate the Contractor's engagement under the Agreement immediately by written notice if the Contractor:
 
-    a)  Becomes insolvent, bankrupt, enters liquidation, administration, receivership, or makes an arrangement with creditors;
-    b)  Abandons the Works, suspends the Works without justification under the CCA, or persistently fails to proceed with the Works diligently and expeditiously in accordance with the Principal's reasonable directions or Programme requirements;
-    c)  Commits a substantial breach of the Agreement (including failing to rectify defective work, failing to comply with its health and safety obligations, or failing to maintain the required insurances) and fails to remedy that breach within five (5) Working Days of receiving written notice from the Principal specifying the breach and requiring remedy;
-    d)  Assigns the Agreement or subcontracts the whole or substantial part of the Works without the Principal’s prior written consent; or
-    e)  Assigns or transfers shares in the Contractor so that effective control of the Contractor passes to persons other than those holding it at the date of this Agreement without the Principal’s prior written consent.
+- Becomes insolvent, bankrupt, enters liquidation, administration, receivership, or makes an arrangement with creditors;
+- Abandons the Works, suspends the Works without justification under the CCA, or persistently fails to proceed with the Works diligently and expeditiously in accordance with the Principal's reasonable directions or Programme requirements;
+- Commits a substantial breach of the Agreement (including failing to rectify defective work, failing to comply with its health and safety obligations, or failing to maintain the required insurances) and fails to remedy that breach within five (5) Working Days of receiving written notice from the Principal specifying the breach and requiring remedy;
+- Assigns the Agreement or subcontracts the whole or substantial part of the Works without the Principal’s prior written consent; or
+- Assigns or transfers shares in the Contractor so that effective control of the Contractor passes to persons other than those holding it at the date of this Agreement without the Principal’s prior written consent.
 
 9.3 **Consequences of Termination**
 
@@ -259,8 +259,8 @@ These warranties are in addition to any other warranties implied by law or speci
 
 9.3.2 **If terminated by Principal for Convenience:** The Contractor must cease work as directed, secure its area, and demobilise. The Principal shall pay the Contractor for:
 
-    a)  The value of the Works properly completed up to the effective date of termination (as reasonably assessed by the Principal); plus
-    b)  The reasonable, substantiated, and unavoidable costs directly incurred by the Contractor solely due to the termination (e.g., cancellation costs for non-returnable materials ordered prior to notice of termination, demobilisation costs), provided the Contractor takes all reasonable steps to mitigate such costs.
+ - The value of the Works properly completed up to the effective date of termination (as reasonably assessed by the Principal); plus
+- The reasonable, substantiated, and unavoidable costs directly incurred by the Contractor solely due to the termination (e.g., cancellation costs for non-returnable materials ordered prior to notice of termination, demobilisation costs), provided the Contractor takes all reasonable steps to mitigate such costs.
 
 Payment excludes any allowance for loss of anticipated profit or overhead recovery on the uncompleted portion of the Works.
 
@@ -268,8 +268,8 @@ Payment excludes any allowance for loss of anticipated profit or overhead recove
 
 9.4 **Termination by Contractor:** The Contractor may terminate the Agreement only if the Principal:
 
-    a)  Commits a substantial breach of a fundamental term (which, for clarity, is limited to failing to pay a correctly scheduled undisputed amount certified in a Payment Schedule for more than 30 Working Days after the due date, where such failure is not due to a valid deduction or withholding right under the Agreement or CCA); or
-    b)  Becomes insolvent.
+- Commits a substantial breach of a fundamental term (which, for clarity, is limited to failing to pay a correctly scheduled undisputed amount certified in a Payment Schedule for more than 30 Working Days after the due date, where such failure is not due to a valid deduction or withholding right under the Agreement or CCA); or
+- Becomes insolvent.
 
 9.5 Before terminating, the Contractor must give the Principal at least ten (10) Working Days' written notice specifying the substantial breach and requiring it to be remedied. If the Principal remedies the breach within the notice period, the termination notice lapses. If terminated validly under this clause, the Contractor is entitled to payment as if terminated for convenience.
 
@@ -283,9 +283,9 @@ Payment excludes any allowance for loss of anticipated profit or overhead recove
 
 10.4    The Contractor is liable for, and indemnifies the Principal against, any loss or damage caused by its operations, personnel, subcontractors, or defective work to:
 
-    a)  Other parts of the overall project works (including work performed by the Principal or Other Contractors);
-    b)  Existing property on or adjacent to the Site; and
-    c)  Third parties or their property.
+- Other parts of the overall project works (including work performed by the Principal or Other Contractors);
+- Existing property on or adjacent to the Site; and
+- Third parties or their property.
 
 10.5    The Contractor shall rectify such damage promptly at its cost upon notification by the Principal. If the Contractor fails to do so, the Principal may rectify the damage and recover the reasonable costs incurred from the Contractor (including by way of deduction).
 
@@ -305,9 +305,9 @@ Payment excludes any allowance for loss of anticipated profit or overhead recove
 
 12.2    Notices are deemed received:
 
-    a)  If delivered personally, upon delivery;
-    b)  If sent by post, three (3) Working Days after posting; or
-    c)  If sent by email, upon transmission to the correct email address without notification of delivery failure (or, if transmitted after 5:00 pm NZ time on a Working Day or on a non-working day, deemed received at 9:00 am on the next Working Day).
+- If delivered personally, upon delivery;
+- If sent by post, three (3) Working Days after posting; or
+- If sent by email, upon transmission to the correct email address without notification of delivery failure (or, if transmitted after 5:00 pm NZ time on a Working Day or on a non-working day, deemed received at 9:00 am on the next Working Day).
 
 <h2>13.0 GENERAL</h2>
 
