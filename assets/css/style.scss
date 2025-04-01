@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Empty rule to satisfy linter */
+body {}
+
+/* Add your custom CSS/Sass rules below */
+
+/* Hide the default theme header/pane */
+.page-header {
+  display: none;
+}
+
+/* Example: Make the main content area slightly wider */
+/*
+.wrapper {
+  max-width: 900px;
+}
+*/
+
+/* Example: Change the default font */
+/*
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+*/
