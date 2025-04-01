@@ -1,0 +1,12 @@
+# Cline Rules for Terms and Conditions Site Project
+
+## Environment
+
+-   **Operating System:** Windows
+-   **Terminal Commands:** Use Windows-specific commands (e.g., `del` instead of `rm`, `ren` instead of `mv`, `dir` instead of `ls`). Be mindful of PowerShell syntax differences if applicable.
+
+## Project Workflow
+
+-   **Hosting:** GitHub Pages using native Markdown/Jekyll rendering.
+-   **Primary Content File:** `index.md` (renamed from `terms.md`).
+-   **Memory Bank:** Excluded from Git via `.gitignore`. Remember to read/update it according to standard procedure.
