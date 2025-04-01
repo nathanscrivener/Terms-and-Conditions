@@ -9,9 +9,10 @@
 
 /* Reset styling for indented lists rendered as <pre> blocks */
 section pre {
-  font-family: inherit !important; /* Use the main body font */
-  font-size: inherit !important; /* Use the main body font size */
-  color: inherit !important; /* Use the main body text color */
+  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important; /* Match body font */
+  font-size: 14px !important; /* Match body font size */
+  line-height: 1.5 !important; /* Match body line height */
+  color: #727272 !important; /* Match body text color */
   background-color: transparent !important; /* Remove code block background */
   border: none !important; /* Remove code block border */
   padding: 0 0 0 20px !important; /* Remove default padding but add left padding for indent */

@@ -28,10 +28,10 @@ For the purposes of this Agreement the following definitions shall apply:
 
 **Good Industry Practice:** A set of standards requiring the Contractor to exercise that degree of skill, care, diligence, prudence, and foresight which would reasonably and ordinarily be expected from a skilled, competent, and experienced contractor engaged in New Zealand in carrying out works of a similar type, scope, complexity, nature, and scale as the Works, under similar circumstances and conditions prevailing at the time the Works are carried out. It includes, without limitation:
 
-a)  Complying with all applicable laws, regulations, bylaws, the New Zealand Building Code, relevant New Zealand Standards (unless the Agreement expressly specifies otherwise), and applicable codes of practice;
-b)  Adhering to sound and accepted health and safety practices and requirements relevant to the Works and the Site, consistent with the HSWA;
-c)  Using materials, plant, techniques, and standards of workmanship that are suitable, appropriate for their intended purpose, free from defects (unless specified otherwise), and widely accepted as good practice within the relevant trade or industry in New Zealand; and
-d) Performing the Works efficiently and in a manner that avoids unnecessary waste of time, resources, or materials
+    a)  Complying with all applicable laws, regulations, bylaws, the New Zealand Building Code, relevant New Zealand Standards (unless the Agreement expressly specifies otherwise), and applicable codes of practice;
+    b)  Adhering to sound and accepted health and safety practices and requirements relevant to the Works and the Site, consistent with the HSWA;
+    c)  Using materials, plant, techniques, and standards of workmanship that are suitable, appropriate for their intended purpose, free from defects (unless specified otherwise), and widely accepted as good practice within the relevant trade or industry in New Zealand; and
+    d) Performing the Works efficiently and in a manner that avoids unnecessary waste of time, resources, or materials
 
 **HSWA:** Health and Safety at Work Act 2015.
 
