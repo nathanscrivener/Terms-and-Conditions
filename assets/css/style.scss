@@ -1,17 +1,11 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+// Import the local copy of the theme's styles
+@import "jekyll-theme-minimal";
 
-/* Empty rule to satisfy linter */
-body {}
-
-/* Add your custom CSS/Sass rules below */
-
-/* Hide the default theme header/pane */
-.page-header {
-  display: none;
-}
+/* Add any additional custom CSS/Sass rules below */
+/* These will be applied *after* the theme's base styles */
 
 /* Example: Make the main content area slightly wider */
 /*
