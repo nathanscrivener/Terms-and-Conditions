@@ -9,14 +9,14 @@
 
 /* Reset styling for indented lists rendered as <pre> blocks */
 section pre {
-  font-family: inherit; /* Use the main body font */
-  font-size: inherit; /* Use the main body font size */
-  color: inherit; /* Use the main body text color */
-  background-color: transparent; /* Remove code block background */
-  border: none; /* Remove code block border */
-  padding: 0; /* Remove code block padding */
-  margin-bottom: 1em; /* Keep paragraph-like spacing */
-  white-space: pre-wrap; /* Allow text wrapping */
+  font-family: inherit !important; /* Use the main body font */
+  font-size: inherit !important; /* Use the main body font size */
+  color: inherit !important; /* Use the main body text color */
+  background-color: transparent !important; /* Remove code block background */
+  border: none !important; /* Remove code block border */
+  padding: 0 0 0 20px !important; /* Remove default padding but add left padding for indent */
+  margin-bottom: 1em !important; /* Keep paragraph-like spacing */
+  white-space: pre-wrap !important; /* Allow text wrapping */
   word-wrap: break-word; /* Ensure long words break */
   overflow-x: hidden; /* Hide horizontal scrollbar if any */
 }
