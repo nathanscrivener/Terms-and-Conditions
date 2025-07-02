@@ -1,3 +1,6 @@
+# The public-facing URL of your site
+url: "https://terms.scrivener.co.nz"
+
 theme: jekyll-theme-minimal
 baseurl: /Terms-and-Conditions
 timezone: Pacific/Auckland
