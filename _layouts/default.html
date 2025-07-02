@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css?v={{ site.github.build_revision }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -19,7 +19,7 @@
       <!-- Logo moved from index.md -->
       <p align="center">
         <picture>
-          <img src="{{ 'logo-light.png' | relative_url }}" alt="Scrivener Management Limited Logo" style="width:40%" />
+          <img src="{{ site.baseurl }}/logo-light.png" alt="Scrivener Management Limited Logo" style="width:40%" />
         </picture>
       </p>
 
