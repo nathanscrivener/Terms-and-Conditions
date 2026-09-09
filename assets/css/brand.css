@@ -4,6 +4,14 @@
    (branding workspace, port 3200; mirrors the promoted website implementation).
    ========================================================================== */
 
+/* ==================== Reset ==================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 /* Self-hosted variable fonts (latin subset, weights 100-900 / 200-800) */
 @font-face {
   font-family: 'Inter';
@@ -260,7 +268,7 @@ footer {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   background: var(--navy-deep);
   color: #b8c5dc;
-  padding: 3rem var(--gutter);
+  padding: 3rem 0;
 }
 
 .footer-inner {
@@ -271,9 +279,13 @@ footer {
   gap: 1.5rem;
   max-width: 1400px;
   margin: 0 auto;
+  /* Horizontal padding inside the container so the meta text's right edge
+     matches the body text's right edge (wrapper's gutter inset). */
+  padding: 0 var(--gutter);
 }
 
-/* Left edge lines up with the header wordmark (same inset as the header anchor). */
+/* Left edge lines up with the header wordmark: the container's gutter
+   padding (above) plus the shared brand inset = header anchor position. */
 .brand-footer-logo {
   display: block;
   width: 168px;
@@ -283,7 +295,7 @@ footer {
 }
 
 .footer-meta {
-  font-size: .875rem;
+  font-size: .8rem;
   line-height: 1.6;
   color: #bcc6d7;
   text-align: right;
@@ -320,9 +332,6 @@ footer {
   .footer-inner {
     flex-direction: column;
     align-items: center;
-  }
-  .brand-footer-logo {
-    margin-left: 0;
   }
   .footer-meta {
     text-align: center;
