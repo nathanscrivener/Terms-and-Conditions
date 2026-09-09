@@ -4,3 +4,4 @@ memory-bank/
 # Jekyll local build cache
 .jekyll-cache/
 _site/
+_preview/
