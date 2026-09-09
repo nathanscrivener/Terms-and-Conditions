@@ -89,6 +89,11 @@ img {
 
 .site-header {
   background: var(--navy);
+  /* Pin the brand bar to the top while the terms scroll underneath. */
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  box-shadow: 0 4px 16px rgba(23, 32, 54, .25);
 }
 
 /* Header container mirrors the dev sites: max-width 1400px nav with gutter padding. */
@@ -144,10 +149,13 @@ img {
 
 /* ==================== Content ==================== */
 
+/* Content container shares the header/footer geometry (1400px); the text's
+   left edge aligns with the brand lettering via the same inset. */
 .wrapper {
-  max-width: 860px;
+  max-width: 1400px;
   margin: 0 auto;
-  padding: 0 clamp(1.25rem, 4vw, 4rem);
+  padding-left: calc(var(--gutter) + var(--brand-inset));
+  padding-right: var(--gutter);
 }
 
 .content {
