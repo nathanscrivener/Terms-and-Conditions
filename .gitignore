@@ -1,2 +1,6 @@
 # Ignore Cline's Memory Bank directory
 memory-bank/
+
+# Jekyll local build cache
+.jekyll-cache/
+_site/

@@ -4,3 +4,10 @@ url: "https://terms.scrivener.co.nz"
 theme: jekyll-theme-minimal
 baseurl: /Terms-and-Conditions
 timezone: Pacific/Auckland
+
+# Repo-only files that should never appear on the live site
+exclude:
+  - nginx.conf
+  - preview.sh
+  - publish.sh
+  - README.md

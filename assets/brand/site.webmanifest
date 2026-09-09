@@ -1,0 +1,19 @@
+{
+  "name": "Scrivener Residential",
+  "short_name": "Scrivener",
+  "icons": [
+    {
+      "src": "favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#1F2A44",
+  "theme_color": "#1F2A44",
+  "display": "browser"
+}

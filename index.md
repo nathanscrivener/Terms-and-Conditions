@@ -1,3 +1,11 @@
+---
+layout: default
+title: General Terms and Conditions for Contract Works
+description: General Terms and Conditions for Contract Works — Scrivener Residential (Scrivener Management Limited)
+---
+
+<!-- Logo is in _layouts/default.html -->
+
 <!-- Logo moved to _layouts/default.html -->
 
 <h1>GENERAL TERMS AND CONDITIONS FOR CONTRACT WORKS</h1>

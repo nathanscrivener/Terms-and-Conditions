@@ -1,0 +1,295 @@
+/* ==========================================================================
+   Scrivener Residential — Terms and Conditions
+   Brand tokens and styles per the Scrivener Residential brand guidelines
+   (branding workspace, port 3200; mirrors the promoted website implementation).
+   ========================================================================== */
+
+/* Self-hosted variable fonts (latin subset, weights 100-900 / 200-800) */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('../fonts/inter-latin-var.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url('../fonts/manrope-latin-var.woff2') format('woff2');
+}
+
+:root {
+  /* Structure */
+  --navy: #1f2a44;
+  --navy-deep: #172036;
+  --paper: #f4f6fa;
+  --mist-text: #637086;
+  --mist-light: #e3e7ee;
+  --ink: #232936;
+  /* Deep Ochre action system (02 / Deep Ochre) */
+  --accent: #8a5a0a;
+  --accent-hover: #6f4708;
+  --accent-highlight: #c39a4a;
+  --accent-soft: #ead9b8;
+  /* Type + header brand sizing */
+  --heading: 'Manrope', 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --brand-lettering: 161px;
+  --brand-header-height: 78px;
+}
+
+/* ============================ Base ============================ */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  font: 400 15px/1.75 'Inter', ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--accent-soft);
+  color: var(--navy-deep);
+}
+
+a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: color .2s;
+}
+
+a:hover,
+a:focus {
+  color: var(--accent-hover);
+  text-decoration-thickness: 2px;
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent-highlight);
+  outline-offset: 5px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* ==================== Brand header ==================== */
+
+.site-header {
+  background: var(--navy);
+}
+
+.site-header .brand-queensides {
+  position: relative;
+  display: inline-flex;
+  width: fit-content;
+  align-items: center;
+  min-height: var(--brand-header-height);
+  padding: 0 40px 0 16px;
+  /* White angled panel: CSS-built at full header height, flush to the left edge. */
+  --header-bleed: max(0px, (100vw - 1280px) / 2);
+}
+
+.site-header .brand-queensides::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: #fff;
+  clip-path: polygon(0 0, 100% 0, calc(100% - 27px) 100%, 0 100%);
+}
+
+.site-header .brand-queensides::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: calc(100% - 1px);
+  width: calc(var(--header-bleed) + 1px);
+  background: #fff;
+}
+
+.site-header .brand-queensides img {
+  display: block;
+  width: var(--brand-lettering);
+  height: auto;
+  position: relative;
+  z-index: 1;
+}
+
+.site-header .brand-queensides:focus-visible {
+  outline: 2px solid var(--accent-highlight);
+  outline-offset: -4px;
+}
+
+/* ==================== Content ==================== */
+
+.wrapper {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 clamp(1.25rem, 4vw, 4rem);
+}
+
+.content {
+  display: block;
+  padding-block: clamp(2.5rem, 6vw, 4.5rem) 3rem;
+  outline: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading);
+  font-weight: 600;
+  letter-spacing: -.03em;
+  color: var(--navy);
+  text-wrap: balance;
+  margin: 0 0 1rem;
+}
+
+h1 {
+  font-size: clamp(1.9rem, 4.5vw, 2.8rem);
+  line-height: 1.12;
+}
+
+h2 {
+  font-size: clamp(1.4rem, 3vw, 1.9rem);
+  line-height: 1.2;
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--mist-light);
+}
+
+h3, h4, h5, h6 {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+}
+
+p, ul, ol, table, pre, dl {
+  margin: 0 0 1.25rem;
+}
+
+strong {
+  color: var(--navy);
+  font-weight: 700;
+}
+
+blockquote {
+  border-left: 3px solid var(--accent-highlight);
+  margin: 0;
+  padding: 0 0 0 20px;
+  font-style: italic;
+  color: var(--mist-text);
+}
+
+hr {
+  border: 0;
+  background: var(--mist-light);
+  height: 1px;
+  margin: 2rem 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .95em;
+}
+
+th, td {
+  text-align: left;
+  padding: .5rem .75rem;
+  border-bottom: 1px solid var(--mist-light);
+}
+
+th {
+  color: var(--navy);
+  font-family: var(--heading);
+  font-weight: 600;
+}
+
+/* Reset styling for indented lists rendered as <pre> blocks —
+   the terms content relies on these overrides. */
+pre, code {
+  font-family: inherit !important;
+  font-size: inherit !important;
+  color: inherit !important;
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 0 1em 0 !important;
+  white-space: pre-wrap !important;
+  word-wrap: break-word !important;
+  line-height: inherit !important;
+}
+
+pre code {
+  display: block;
+  background: none !important;
+  border-radius: 0 !important;
+}
+
+/* ==================== Footer ==================== */
+
+footer {
+  border-top: 1px solid var(--navy);
+  background: var(--navy);
+  color: #b8c5dc;
+  padding: 3rem clamp(1.25rem, 4vw, 4rem) 2.5rem;
+  text-align: center;
+}
+
+.footer-brand {
+  margin: 0 0 1.5rem;
+}
+
+.brand-footer-logo {
+  display: block;
+  width: 168px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.footer-meta {
+  font-size: .78rem;
+  line-height: 1.9;
+  color: #8fa1c2;
+  margin: 0;
+}
+
+/* ==================== Responsive + print ==================== */
+
+@media (max-width: 767px) {
+  .site-header .brand-queensides {
+    padding-inline: 10px 30px;
+  }
+  .site-header .brand-queensides::before {
+    clip-path: polygon(0 0, 100% 0, calc(100% - 22px) 100%, 0 100%);
+  }
+  :root {
+    --brand-lettering: 126px;
+    --brand-header-height: 62px;
+  }
+}
+
+@media print {
+  body {
+    background: #fff;
+    font-size: 12pt;
+    color: #222;
+  }
+  .site-header .brand-queensides {
+    --header-bleed: 0px;
+  }
+  footer {
+    background: #fff;
+    color: #444;
+    border-top-color: #ccc;
+  }
+  .footer-meta {
+    color: #666;
+  }
+}

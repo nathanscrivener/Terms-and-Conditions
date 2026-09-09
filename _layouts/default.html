@@ -6,33 +6,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css?v={{ site.github.build_revision }}">
+    <meta name="theme-color" content="#1F2A44">
+    <link rel="icon" href="{{ site.baseurl }}/assets/brand/favicon-32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="{{ site.baseurl }}/assets/brand/favicon.svg?v=queensides-s" sizes="any" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/brand/apple-touch-icon.png" sizes="180x180">
+    <link rel="manifest" href="{{ site.baseurl }}/assets/brand/site.webmanifest">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/brand.css?v={{ site.github.build_revision }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
   </head>
   <body>
+    <!-- Brand header: navy bar with the CSS-built angled paper panel and Queensides lettering -->
+    <header class="site-header">
+      <a class="brand-queensides" href="{{ "/" | relative_url }}">
+        <img src="{{ site.baseurl }}/assets/brand/queensides-paper-header.svg" alt="Scrivener Residential">
+      </a>
+    </header>
+
     <div class="wrapper">
-      <!-- Header section removed -->
-
-      <!-- Logo moved from index.md -->
-      <p align="center">
-        <picture>
-          <img src="{{ site.baseurl }}/logo-light.png" alt="Scrivener Management Limited Logo" style="width:40%" />
-        </picture>
-      </p>
-
-      <section>
+      <main class="content" tabindex="-1">
 
         {{ content }}
 
-      </section>
-     
+      </main>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
     <footer>
-      <p style="text-align: center; font-size: 0.8em; color: #666;">
+      <p class="footer-brand">
+        <img class="brand-footer-logo" src="{{ site.baseurl }}/assets/brand/wordmark-white.svg" alt="Scrivener Residential" width="168">
+      </p>
+      <p class="footer-meta">
         Last Updated: {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }} <br>
         Version: {{ site.github.build_revision | slice: 0, 7 }}
       </p>
