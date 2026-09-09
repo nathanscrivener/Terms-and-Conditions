@@ -36,13 +36,13 @@
     </div>
 
     <footer>
-      <p class="footer-brand">
-        <img class="brand-footer-logo" src="{{ site.baseurl }}/assets/brand/wordmark-white.svg" alt="Scrivener Residential" width="168">
-      </p>
-      <p class="footer-meta">
-        Last Updated: {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }} <br>
-        Version: {{ site.github.build_revision | slice: 0, 7 }}
-      </p>
+      <div class="footer-inner">
+        <img class="brand-footer-logo" src="{{ site.baseurl }}/assets/brand/queensides-footer.svg" alt="Scrivener Residential" width="168">
+        <div class="footer-meta">
+          <p class="footer-meta-strong">Last Updated: {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }}</p>
+          <p>Version: {{ site.github.build_revision | slice: 0, 7 }}</p>
+        </div>
+      </div>
     </footer>
   </body>
 </html>

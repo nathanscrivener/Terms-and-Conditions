@@ -38,6 +38,9 @@
   --gutter: clamp(1.25rem, 4vw, 4rem);
   --brand-lettering: 161px;
   --brand-header-height: 78px;
+  /* Horizontal inset of the brand lettering from the container edge
+     (header anchor left padding; the footer wordmark tracks this). */
+  --brand-inset: 76px;
 }
 
 /* ============================ Base ============================ */
@@ -103,7 +106,7 @@ img {
   width: fit-content;
   align-items: center;
   min-height: var(--brand-header-height);
-  padding: 0 40px 0 36px;
+  padding: 0 40px 0 var(--brand-inset);
   /* White angled panel: CSS-built at full header height, flush to the left edge. */
   --header-bleed: calc(max(0px, (100vw - 1400px) / 2) + var(--gutter));
 }
@@ -246,29 +249,50 @@ pre code {
 /* ==================== Footer ==================== */
 
 footer {
-  border-top: 1px solid var(--navy);
-  background: var(--navy);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  background: var(--navy-deep);
   color: #b8c5dc;
-  padding: 1.75rem clamp(1.25rem, 4vw, 4rem) 1.5rem;
-  text-align: center;
+  padding: 3rem var(--gutter);
 }
 
-.footer-brand {
-  margin: 0 0 1.25rem;
+.footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  max-width: 1400px;
+  margin: 0 auto;
 }
 
+/* Left edge lines up with the header wordmark (same inset as the header anchor). */
 .brand-footer-logo {
   display: block;
   width: 168px;
   height: auto;
-  margin: 0 auto;
+  margin: 0;
+  margin-left: var(--brand-inset);
 }
 
 .footer-meta {
-  font-size: .78rem;
-  line-height: 1.9;
-  color: #8fa1c2;
+  font-size: .875rem;
+  line-height: 1.6;
+  color: #bcc6d7;
+  text-align: right;
   margin: 0;
+}
+
+.footer-meta p {
+  margin: 0;
+}
+
+.footer-meta p + p {
+  margin-top: .25rem;
+}
+
+.footer-meta-strong {
+  color: #d7dfef;
+  font-weight: 500;
 }
 
 /* ==================== Responsive + print ==================== */
@@ -283,6 +307,17 @@ footer {
   :root {
     --brand-lettering: 126px;
     --brand-header-height: 62px;
+    --brand-inset: 10px;
+  }
+  .footer-inner {
+    flex-direction: column;
+    align-items: center;
+  }
+  .brand-footer-logo {
+    margin-left: 0;
+  }
+  .footer-meta {
+    text-align: center;
   }
 }
 
