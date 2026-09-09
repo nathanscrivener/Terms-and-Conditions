@@ -35,6 +35,7 @@
   --accent-soft: #ead9b8;
   /* Type + header brand sizing */
   --heading: 'Manrope', 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --gutter: clamp(1.25rem, 4vw, 4rem);
   --brand-lettering: 161px;
   --brand-header-height: 78px;
 }
@@ -86,6 +87,14 @@ img {
   background: var(--navy);
 }
 
+/* Header container mirrors the dev sites: max-width 1400px nav with gutter padding. */
+.site-header .header-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  min-height: var(--brand-header-height);
+  padding: 0 var(--gutter);
+}
+
 .site-header .brand-queensides {
   position: relative;
   display: inline-flex;
@@ -94,7 +103,7 @@ img {
   min-height: var(--brand-header-height);
   padding: 0 40px 0 16px;
   /* White angled panel: CSS-built at full header height, flush to the left edge. */
-  --header-bleed: max(0px, (100vw - 1280px) / 2);
+  --header-bleed: calc(max(0px, (100vw - 1400px) / 2) + var(--gutter));
 }
 
 .site-header .brand-queensides::before {
@@ -238,12 +247,12 @@ footer {
   border-top: 1px solid var(--navy);
   background: var(--navy);
   color: #b8c5dc;
-  padding: 3rem clamp(1.25rem, 4vw, 4rem) 2.5rem;
+  padding: 1.75rem clamp(1.25rem, 4vw, 4rem) 1.5rem;
   text-align: center;
 }
 
 .footer-brand {
-  margin: 0 0 1.5rem;
+  margin: 0 0 1.25rem;
 }
 
 .brand-footer-logo {
