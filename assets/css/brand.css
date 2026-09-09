@@ -47,6 +47,7 @@ html {
 }
 
 body {
+  margin: 0;
   background-color: var(--paper);
   color: var(--ink);
   font: 400 15px/1.75 'Inter', ui-sans-serif, system-ui, sans-serif;
@@ -89,6 +90,7 @@ img {
 
 /* Header container mirrors the dev sites: max-width 1400px nav with gutter padding. */
 .site-header .header-inner {
+  display: flex;
   max-width: 1400px;
   margin: 0 auto;
   min-height: var(--brand-header-height);
@@ -101,7 +103,7 @@ img {
   width: fit-content;
   align-items: center;
   min-height: var(--brand-header-height);
-  padding: 0 40px 0 16px;
+  padding: 0 40px 0 36px;
   /* White angled panel: CSS-built at full header height, flush to the left edge. */
   --header-bleed: calc(max(0px, (100vw - 1400px) / 2) + var(--gutter));
 }
