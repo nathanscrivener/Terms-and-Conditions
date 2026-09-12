@@ -20,7 +20,8 @@ fi
 git pull --ff-only origin main
 
 MSG="${1:-Publish $(git rev-parse --short HEAD)}"
-git push origin "main:gh-pages" -m "$MSG"
+echo "Publishing: $MSG"
+git push origin "main:gh-pages"
 
 echo "Pushed main → gh-pages. GitHub Pages will rebuild and the site will go live shortly."
 echo "Track the build: https://github.com/nathanscrivener/Terms-and-Conditions/deployments"
